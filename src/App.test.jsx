@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import App from './App';
 
 it('renders without crashing', () => {
@@ -8,9 +8,9 @@ it('renders without crashing', () => {
 
   ReactDOM.render(
     <React.StrictMode>
-      <Router>
+      <HashRouter>
         <App />
-      </Router>
+      </HashRouter>
     </React.StrictMode>,
     div,
   );

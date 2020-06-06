@@ -1,7 +1,7 @@
 import React from 'react';
 import './app.scss';
 import { Content } from 'carbon-components-react/lib/components/UIShell';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import TutorialHeader from './components/TutorialHeader';
 import LandingPage from './content/LandingPage';
 import RepoPage from './content/RepoPage';
@@ -11,10 +11,10 @@ function App() {
     <>
       <TutorialHeader />
       <Content>
-        <Switch>
-          <Route exact path="." component={LandingPage} />
-          <Route path="./repos" component={RepoPage} />
-        </Switch>
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/repos" element={<RepoPage />} />
+        </Routes>
       </Content>
     </>
   );

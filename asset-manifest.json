@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://gabrielgiordan.github.io/carbon-react-example/static/css/main.3ad8cb2c.chunk.css",
-    "main.js": "https://gabrielgiordan.github.io/carbon-react-example/static/js/main.b4012138.chunk.js",
-    "main.js.map": "https://gabrielgiordan.github.io/carbon-react-example/static/js/main.b4012138.chunk.js.map",
+    "main.js": "https://gabrielgiordan.github.io/carbon-react-example/static/js/main.0240119f.chunk.js",
+    "main.js.map": "https://gabrielgiordan.github.io/carbon-react-example/static/js/main.0240119f.chunk.js.map",
     "runtime-main.js": "https://gabrielgiordan.github.io/carbon-react-example/static/js/runtime-main.af9d7154.js",
     "runtime-main.js.map": "https://gabrielgiordan.github.io/carbon-react-example/static/js/runtime-main.af9d7154.js.map",
-    "static/js/2.70f24cb5.chunk.js": "https://gabrielgiordan.github.io/carbon-react-example/static/js/2.70f24cb5.chunk.js",
-    "static/js/2.70f24cb5.chunk.js.map": "https://gabrielgiordan.github.io/carbon-react-example/static/js/2.70f24cb5.chunk.js.map",
+    "static/js/2.b2096503.chunk.js": "https://gabrielgiordan.github.io/carbon-react-example/static/js/2.b2096503.chunk.js",
+    "static/js/2.b2096503.chunk.js.map": "https://gabrielgiordan.github.io/carbon-react-example/static/js/2.b2096503.chunk.js.map",
     "index.html": "https://gabrielgiordan.github.io/carbon-react-example/index.html",
-    "precache-manifest.f9392a92ac7c5baceebdbe7942132674.js": "https://gabrielgiordan.github.io/carbon-react-example/precache-manifest.f9392a92ac7c5baceebdbe7942132674.js",
+    "precache-manifest.69675781087531f42965b2f96de53430.js": "https://gabrielgiordan.github.io/carbon-react-example/precache-manifest.69675781087531f42965b2f96de53430.js",
     "service-worker.js": "https://gabrielgiordan.github.io/carbon-react-example/service-worker.js",
     "static/css/main.3ad8cb2c.chunk.css.map": "https://gabrielgiordan.github.io/carbon-react-example/static/css/main.3ad8cb2c.chunk.css.map",
-    "static/js/2.70f24cb5.chunk.js.LICENSE.txt": "https://gabrielgiordan.github.io/carbon-react-example/static/js/2.70f24cb5.chunk.js.LICENSE.txt"
+    "static/js/2.b2096503.chunk.js.LICENSE.txt": "https://gabrielgiordan.github.io/carbon-react-example/static/js/2.b2096503.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.af9d7154.js",
-    "static/js/2.70f24cb5.chunk.js",
+    "static/js/2.b2096503.chunk.js",
     "static/css/main.3ad8cb2c.chunk.css",
-    "static/js/main.b4012138.chunk.js"
+    "static/js/main.0240119f.chunk.js"
   ]
 }

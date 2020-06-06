@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-node@v2-beta
         with:
           node-version: ${{ matrix.nodejs-version }}
-      - name: Get yarn cache
+      - name: Get dependencies cache directory
         id: yarn-cache
         run: echo "::set-output name=dir::$(yarn cache dir)"
       - name: Cache dependencies
@@ -29,9 +29,9 @@ jobs:
             ${{ runner.os }}-website-
       - name: Install dependencies
         run: yarn install --frozen-lockfile
-      - name: Install dependencies
+      - name: Run continous integration
         run: yarn ci
-      - name: Build page
+      - name: Build application
         run: yarn build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

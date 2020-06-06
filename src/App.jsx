@@ -12,8 +12,8 @@ function App() {
       <TutorialHeader />
       <Content>
         <Switch>
-          <Route exact path="/" component={LandingPage} />
-          <Route path="/repos" component={RepoPage} />
+          <Route exact path="." component={LandingPage} />
+          <Route path="./repos" component={RepoPage} />
         </Switch>
       </Content>
     </>

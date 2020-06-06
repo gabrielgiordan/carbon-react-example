@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://gabrielgiordan.github.io/carbon-react-example/precache-manifest.65d145b0e2861afbd8c99110619d9046.js"
+  "https://gabrielgiordan.github.io/carbon-react-example/precache-manifest.3e0ed55f3f773e8a824cd5080d6c1089.js"
 );
 
 self.addEventListener('message', (event) => {

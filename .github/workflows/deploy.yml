@@ -9,6 +9,8 @@ jobs:
     strategy:
       matrix:
         nodejs-version: [14.x]
+    env:
+      PUBLIC_URL: ${{ secrets.PUBLIC_URL }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node.js ${{ matrix.nodejs-version }}

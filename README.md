@@ -1,4 +1,5 @@
 ![deploy](https://github.com/gabrielgiordan/carbon-react-example/workflows/deploy/badge.svg)
+[![codecov](https://codecov.io/gh/gabrielgiordan/carbon-react-example/branch/master/graph/badge.svg)](https://codecov.io/gh/gabrielgiordan/carbon-react-example)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

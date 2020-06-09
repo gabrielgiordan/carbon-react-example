@@ -14,7 +14,7 @@
     "ci": "yarn format-check && yarn coverage"
   },
   "dependencies": {
-    "@carbon/grid": "^10.10.2",
+    "@carbon/grid": "^10.11.0",
     "@carbon/icons-react": "^10.11.0",
     "carbon-components": "^10.12.0",
     "carbon-components-react": "^7.12.0",

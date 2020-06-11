@@ -1496,10 +1496,10 @@
     "@babel/runtime" "^7.10.2"
     "@testing-library/dom" "^7.9.0"
 
-"@testing-library/user-event@^11.3.1":
-  version "11.3.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-11.3.1.tgz#a5388cfff2c578825144a6665942124a26852aa3"
-  integrity sha512-kiilTC/B48wmEfRunCsU20ndyJmLoFnsxIv9et/s2+tVmNSfErzkVKxhcPKtO5ktM205+qzy6dyR55JiKXIzqQ==
+"@testing-library/user-event@^11.4.1":
+  version "11.4.1"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-11.4.1.tgz#2134e4cbbb345dbc49001123ff9a036f09259464"
+  integrity sha512-ZaK+3AmocU2WjJ7UyrlnmdPecYt4fridqMwrniENCqoy/Pj2Nc9tTnpjCvMN/Ql/DQ0eRqfBoZdKNqYPBMZFhA==
   dependencies:
     "@babel/runtime" "^7.10.2"
 
@@ -4249,10 +4249,10 @@ eslint-plugin-import@2.20.1:
     read-pkg-up "^2.0.0"
     resolve "^1.12.0"
 
-eslint-plugin-import@^2.21.1:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.1.tgz#3398318e5e4abbd23395c4964ce61538705154c8"
-  integrity sha512-qYOOsgUv63vHof7BqbzuD+Ud34bXHxFJxntuAC1ZappFZXYbRIek3aJ7jc9i2dHDGDyZ/0zlO0cpioES265Lsw==
+eslint-plugin-import@^2.21.2:
+  version "2.21.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.2.tgz#8fef77475cc5510801bedc95f84b932f7f334a7c"
+  integrity sha512-FEmxeGI6yaz+SnEB6YgNHlQK1Bs2DKLM+YF+vuTk5H8J9CLbJLtlPvRFgZZ2+sXiKAlN5dpdlrWOjK8ZoZJpQA==
   dependencies:
     array-includes "^3.1.1"
     array.prototype.flat "^1.2.3"

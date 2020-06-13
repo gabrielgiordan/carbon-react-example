@@ -15,12 +15,12 @@ import Switcher20 from '@carbon/icons-react/lib/switcher/20';
 
 function TutorialHeader() {
   return (
-    <Header aria-label="Carbon Tutorial">
+    <Header aria-label="Carbon Example">
       <SkipToContent />
       <HeaderName element={Link} to="/" prefix="IBM">
-        Carbon Tutorial
+        Carbon Example
       </HeaderName>
-      <HeaderNavigation aria-label="Carbon Tutorial">
+      <HeaderNavigation aria-label="Carbon Example">
         <HeaderMenuItem element={Link} to="/repos">
           Repositories
         </HeaderMenuItem>

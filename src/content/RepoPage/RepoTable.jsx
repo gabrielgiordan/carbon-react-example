@@ -14,11 +14,16 @@ import {
 } from 'carbon-components-react';
 import PropTypes from 'prop-types';
 
-function RepoTable({ dataRows, dataHeaders }) {
+function RepoTable({ tableRows, tableHeaders }) {
+  function getRowDescription(rowId) {
+    const row = tableRows.find(({ id }) => id === rowId);
+    return row ? row.description : '';
+  }
+
   return (
     <DataTable
-      rows={dataRows}
-      headers={dataHeaders}
+      rows={tableRows}
+      headers={tableHeaders}
       render={({
         rows,
         headers,
@@ -30,8 +35,8 @@ function RepoTable({ dataRows, dataHeaders }) {
 
         return (
           <TableContainer
-            title="Carbon Repositories"
-            description="A collection of public Carbon repositories."
+            title="Repositories of Gabriel Giordano"
+            description="A collection of public Gabriel Giordano repositories."
           >
             <Table
               isSortable={tableProps.isSortable}
@@ -83,7 +88,7 @@ function RepoTable({ dataRows, dataHeaders }) {
                         })}
                       </TableExpandRow>
                       <TableExpandedRow colSpan={headers.length + 1}>
-                        <p>Row description</p>
+                        <p>{getRowDescription(row.id)}</p>
                       </TableExpandedRow>
                     </React.Fragment>
                   );
@@ -98,13 +103,13 @@ function RepoTable({ dataRows, dataHeaders }) {
 }
 
 RepoTable.propTypes = {
-  dataRows: PropTypes.arrayOf(PropTypes.object),
-  dataHeaders: PropTypes.arrayOf(PropTypes.object),
+  tableRows: PropTypes.arrayOf(PropTypes.object),
+  tableHeaders: PropTypes.arrayOf(PropTypes.object),
 };
 
 RepoTable.defaultProps = {
-  dataRows: [],
-  dataHeaders: [],
+  tableRows: [],
+  tableHeaders: [],
 };
 
 export default RepoTable;

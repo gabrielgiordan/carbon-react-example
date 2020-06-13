@@ -38,6 +38,7 @@ jobs:
         run: yarn build
         env:
           PUBLIC_URL: https://${{ secrets.CNAME }}
+          REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN }}
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

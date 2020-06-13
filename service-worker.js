@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://carbon.gabrielgiordano.com/precache-manifest.5685cc6560c8f3d1312b28080bc1b7f6.js"
+  "https://carbon.gabrielgiordano.com/precache-manifest.af373a3cb989e5cb147dbc749b9af5da.js"
 );
 
 self.addEventListener('message', (event) => {

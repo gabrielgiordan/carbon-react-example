@@ -1,5 +1,21 @@
-@import 'carbon-components/scss/globals/scss/styles.scss';
-
 $feature-flags: (
   ui-shell: true,
+  grid-columns-16: true,
 );
+
+@import 'carbon-components/scss/globals/scss/styles.scss';
+
+main {
+  display: block;
+}
+
+@media (min-width: 42rem) {
+  .bx--grid--no-gutter {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.bx--content {
+  padding: 0;
+}

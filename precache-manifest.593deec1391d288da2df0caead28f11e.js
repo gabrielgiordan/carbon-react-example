@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e49715cdae8a5e1b46cba80b7ddd19d7",
+    "revision": "7c68d7a7c628dabe56c1b951c200e927",
     "url": "https://carbon.gabrielgiordano.com/index.html"
   },
   {
-    "revision": "9ebc15086734b8d520f8",
-    "url": "https://carbon.gabrielgiordano.com/static/css/main.efb63326.chunk.css"
+    "revision": "d3df89c234d640963a2e",
+    "url": "https://carbon.gabrielgiordano.com/static/css/main.01700ca1.chunk.css"
   },
   {
     "revision": "0c9dd2fca0880faa49ec",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://carbon.gabrielgiordano.com/static/js/2.cdcf7d7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ebc15086734b8d520f8",
+    "revision": "d3df89c234d640963a2e",
     "url": "https://carbon.gabrielgiordano.com/static/js/main.74f98818.chunk.js"
   },
   {

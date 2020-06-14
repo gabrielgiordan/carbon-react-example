@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://carbon.gabrielgiordano.com/static/css/main.efb63326.chunk.css",
+    "main.css": "https://carbon.gabrielgiordano.com/static/css/main.01700ca1.chunk.css",
     "main.js": "https://carbon.gabrielgiordano.com/static/js/main.74f98818.chunk.js",
     "main.js.map": "https://carbon.gabrielgiordano.com/static/js/main.74f98818.chunk.js.map",
     "runtime-main.js": "https://carbon.gabrielgiordano.com/static/js/runtime-main.443247cf.js",
@@ -8,15 +8,15 @@
     "static/js/2.cdcf7d7a.chunk.js": "https://carbon.gabrielgiordano.com/static/js/2.cdcf7d7a.chunk.js",
     "static/js/2.cdcf7d7a.chunk.js.map": "https://carbon.gabrielgiordano.com/static/js/2.cdcf7d7a.chunk.js.map",
     "index.html": "https://carbon.gabrielgiordano.com/index.html",
-    "precache-manifest.ae3d8d3a2927a54572a6880bef88609f.js": "https://carbon.gabrielgiordano.com/precache-manifest.ae3d8d3a2927a54572a6880bef88609f.js",
+    "precache-manifest.593deec1391d288da2df0caead28f11e.js": "https://carbon.gabrielgiordano.com/precache-manifest.593deec1391d288da2df0caead28f11e.js",
     "service-worker.js": "https://carbon.gabrielgiordano.com/service-worker.js",
-    "static/css/main.efb63326.chunk.css.map": "https://carbon.gabrielgiordano.com/static/css/main.efb63326.chunk.css.map",
+    "static/css/main.01700ca1.chunk.css.map": "https://carbon.gabrielgiordano.com/static/css/main.01700ca1.chunk.css.map",
     "static/js/2.cdcf7d7a.chunk.js.LICENSE.txt": "https://carbon.gabrielgiordano.com/static/js/2.cdcf7d7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.443247cf.js",
     "static/js/2.cdcf7d7a.chunk.js",
-    "static/css/main.efb63326.chunk.css",
+    "static/css/main.01700ca1.chunk.css",
     "static/js/main.74f98818.chunk.js"
   ]
 }

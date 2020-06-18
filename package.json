@@ -15,11 +15,11 @@
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.5",
-    "@carbon/grid": "^10.11.0",
-    "@carbon/icons-react": "^10.12.0",
+    "@carbon/grid": "^10.12.0",
+    "@carbon/icons-react": "^10.13.0",
     "apollo-boost": "^0.4.9",
     "carbon-components": "^10.14.0",
-    "carbon-components-react": "^7.13.0",
+    "carbon-components-react": "^7.14.0",
     "carbon-icons": "^7.0.7",
     "graphql": "^15.1.0",
     "prop-types": "^15.7.2",
@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.10.1",
-    "@testing-library/react": "^10.2.1",
+    "@testing-library/react": "^10.3.0",
     "@testing-library/user-event": "^12.0.2",
     "core-js": "^3.6.5",
     "eslint": "^6.8.0",

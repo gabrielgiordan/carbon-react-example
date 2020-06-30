@@ -21,7 +21,7 @@
     "carbon-components": "^10.14.0",
     "carbon-components-react": "^7.14.0",
     "carbon-icons": "^7.0.7",
-    "graphql": "^15.1.0",
+    "graphql": "^15.2.0",
     "history": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",

@@ -2974,10 +2974,10 @@ capture-exit@^2.0.0:
   dependencies:
     rsvp "^4.8.4"
 
-carbon-components-react@^7.14.0:
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/carbon-components-react/-/carbon-components-react-7.14.0.tgz#9c7e1f680d27476fba43aa8b542a4eae235e0843"
-  integrity sha512-ngvfln1oACY4Iy+08CD8dxBE8g1tZ8q7YTgyhDGnhFJ6fhapDiktF4xMe6gaSEbMru/TmwZHyOIwhIywrE/2UQ==
+carbon-components-react@^7.15.0:
+  version "7.15.0"
+  resolved "https://registry.yarnpkg.com/carbon-components-react/-/carbon-components-react-7.15.0.tgz#95d6a6add79c12c8f8c0694405e644e58a1f5797"
+  integrity sha512-relbXXLn1AX0UsqiW7nwjVijqzxRA04feQeijfBNQ8KdejLys/LXVgUHeO6yaW+wOp1Ck9SzjqJhYCbFiwTfVw==
   dependencies:
     "@carbon/icons-react" "^10.13.0"
     classnames "2.2.6"

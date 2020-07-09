@@ -18,7 +18,7 @@
     "@carbon/grid": "^10.12.0",
     "@carbon/icons-react": "^10.13.0",
     "apollo-boost": "^0.4.9",
-    "carbon-components": "^10.16.0-alpha.0",
+    "carbon-components": "^10.16.0-rc.0",
     "carbon-components-react": "^7.15.0",
     "carbon-icons": "^7.0.7",
     "graphql": "^15.3.0",
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.0",
-    "@testing-library/react": "^10.4.4",
+    "@testing-library/react": "^10.4.5",
     "@testing-library/user-event": "^12.0.11",
     "core-js": "^3.6.5",
     "eslint": "^7.4.0",
@@ -42,7 +42,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.3",
-    "eslint-plugin-react-hooks": "^4.0.5",
+    "eslint-plugin-react-hooks": "^4.0.6",
     "node-sass": "^4.14.1",
     "prettier": "^2.0.5"
   }

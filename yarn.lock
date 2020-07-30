@@ -3026,10 +3026,10 @@ carbon-components-react@^7.16.0:
     warning "^3.0.0"
     window-or-global "^1.0.1"
 
-carbon-components@^10.17.0-alpha.0:
-  version "10.17.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-10.17.0-alpha.0.tgz#1a5fe6524d67fd83d5688995ec2c8125acc72de8"
-  integrity sha512-R1ksqoW8+dT4TthOZG8p9AGW2SfhO7dXFEufsG+7djYoFZdO+ziUp5FBaG6vsznWD2q2709T8XpKpQKBRi9T/A==
+carbon-components@^10.17.0-rc.0:
+  version "10.17.0-rc.0"
+  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-10.17.0-rc.0.tgz#cdd47a833af954e3bbdb6a9dd19297cf7e4fcff8"
+  integrity sha512-od6Xbgvb+H7+GgYF/TmDOyAkDtkkIAXvRAgIhWdtLjrh7KlTIzvEHqB8RmZVc/cdDlQXux3LR/VUBq/zup2T7g==
   dependencies:
     flatpickr "4.6.1"
     lodash.debounce "^4.0.8"

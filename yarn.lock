@@ -1132,10 +1132,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@carbon/grid@^10.13.0":
-  version "10.13.0"
-  resolved "https://registry.yarnpkg.com/@carbon/grid/-/grid-10.13.0.tgz#6b73318381e8b86c8a7627c901714b67293e5b53"
-  integrity sha512-dnpULmPPW0JvaQfBwCiBeqDjsnPzYIwQ0VGt5bPu3ADS6PZitrgFPMU1rrZtqJVDuQotpnk3PoTszQKbp7WeGg==
+"@carbon/grid@^10.14.0":
+  version "10.14.0"
+  resolved "https://registry.yarnpkg.com/@carbon/grid/-/grid-10.14.0.tgz#5643303b8e6821306b20ac943ce327068bbbc34e"
+  integrity sha512-V/XuB013ilbQyNV/Mhc24ZBWT0aoF+ZgUw9Rq5NlALgQf08BvTJjQl0C/5GxnAzFHaeYZh9jdVhXa0kCvY9nTg==
   dependencies:
     "@carbon/import-once" "^10.3.0"
     "@carbon/layout" "^10.12.0"

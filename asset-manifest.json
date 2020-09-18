@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "https://carbon.gabrielgiordano.com/static/css/main.0335ddb4.chunk.css",
-    "main.js": "https://carbon.gabrielgiordano.com/static/js/main.d1ac7882.chunk.js",
-    "main.js.map": "https://carbon.gabrielgiordano.com/static/js/main.d1ac7882.chunk.js.map",
-    "runtime-main.js": "https://carbon.gabrielgiordano.com/static/js/runtime-main.f79f3708.js",
-    "runtime-main.js.map": "https://carbon.gabrielgiordano.com/static/js/runtime-main.f79f3708.js.map",
-    "static/js/2.734f53d9.chunk.js": "https://carbon.gabrielgiordano.com/static/js/2.734f53d9.chunk.js",
-    "static/js/2.734f53d9.chunk.js.map": "https://carbon.gabrielgiordano.com/static/js/2.734f53d9.chunk.js.map",
+    "main.css": "https://carbon.gabrielgiordano.com/static/css/main.8a01633e.chunk.css",
+    "main.js": "https://carbon.gabrielgiordano.com/static/js/main.7b22858e.chunk.js",
+    "main.js.map": "https://carbon.gabrielgiordano.com/static/js/main.7b22858e.chunk.js.map",
+    "runtime-main.js": "https://carbon.gabrielgiordano.com/static/js/runtime-main.516c5356.js",
+    "runtime-main.js.map": "https://carbon.gabrielgiordano.com/static/js/runtime-main.516c5356.js.map",
+    "static/js/2.e7051070.chunk.js": "https://carbon.gabrielgiordano.com/static/js/2.e7051070.chunk.js",
+    "static/js/2.e7051070.chunk.js.map": "https://carbon.gabrielgiordano.com/static/js/2.e7051070.chunk.js.map",
     "index.html": "https://carbon.gabrielgiordano.com/index.html",
-    "precache-manifest.6ed66e48332eadbf91358dbec675a128.js": "https://carbon.gabrielgiordano.com/precache-manifest.6ed66e48332eadbf91358dbec675a128.js",
-    "service-worker.js": "https://carbon.gabrielgiordano.com/service-worker.js",
-    "static/css/main.0335ddb4.chunk.css.map": "https://carbon.gabrielgiordano.com/static/css/main.0335ddb4.chunk.css.map",
-    "static/js/2.734f53d9.chunk.js.LICENSE.txt": "https://carbon.gabrielgiordano.com/static/js/2.734f53d9.chunk.js.LICENSE.txt"
+    "static/css/main.8a01633e.chunk.css.map": "https://carbon.gabrielgiordano.com/static/css/main.8a01633e.chunk.css.map",
+    "static/js/2.e7051070.chunk.js.LICENSE.txt": "https://carbon.gabrielgiordano.com/static/js/2.e7051070.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f79f3708.js",
-    "static/js/2.734f53d9.chunk.js",
-    "static/css/main.0335ddb4.chunk.css",
-    "static/js/main.d1ac7882.chunk.js"
+    "static/js/runtime-main.516c5356.js",
+    "static/js/2.e7051070.chunk.js",
+    "static/css/main.8a01633e.chunk.css",
+    "static/js/main.7b22858e.chunk.js"
   ]
 }

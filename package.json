@@ -16,7 +16,7 @@
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "@carbon/grid": "^10.15.0",
-    "@carbon/icons-react": "^10.18.0",
+    "@carbon/icons-react": "^10.19.0",
     "apollo-boost": "^0.4.9",
     "carbon-components": "^10.20.0",
     "carbon-components-react": "^7.20.0",

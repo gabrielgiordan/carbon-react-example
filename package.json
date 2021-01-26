@@ -19,7 +19,7 @@
     "@carbon/icons-react": "^10.18.0",
     "apollo-boost": "^0.4.9",
     "carbon-components": "^10.20.0",
-    "carbon-components-react": "^7.20.0",
+    "carbon-components-react": "^7.27.0",
     "carbon-icons": "^7.0.7",
     "graphql": "^15.3.0",
     "history": "^5.0.0",
